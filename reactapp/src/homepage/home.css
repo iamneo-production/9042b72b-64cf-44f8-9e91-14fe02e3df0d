@@ -1,0 +1,25 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.text-block {
+    background-image: url(homeback2.jpg);
+    text-align: center;
+    padding: 18%;
+    background-repeat: no-repeat;
+    background-size: cover;                                                                                       
+    padding-bottom: 400px;
+    /* opacity: 0.5; */
+  }
+  .text1{
+    color: white;
+    font-size: 3rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .text2{
+    color:white;
+    font-size: 2rem;
+    font-family: Fasthand;
+  }

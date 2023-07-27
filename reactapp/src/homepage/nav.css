@@ -1,0 +1,38 @@
+.homenav{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+    left: 0;
+    right: 0;
+    position: fixed;
+    margin-top: -5px;
+    background-color: aliceblue;
+    
+}
+.homenav a{
+    color: inherit;
+    text-decoration: none;
+}
+.logo{
+    width: 70px;
+    padding-top: 5px;
+    height: 100%;
+}
+.sitename{
+    font-size: 3rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.homenav ul{
+    /* justify-content: space-between;  */
+    margin-right: 10px;
+    font-family:serif;
+    list-style: none;
+    padding-right: 5px;
+    margin: 0;
+    display: flex;
+    gap: 1rem;
+}
+.homenav li:hover{
+    background-color:chartreuse;
+}

@@ -1,0 +1,62 @@
+.login-container {
+    width: 500px;
+    height: 300px;
+    top: 50%;
+  left: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+background-color:seashell;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .loginmain
+  {
+    background-image: url("https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2021/03/wedding-photography-tips-13.jpg?w=1500&ssl=1");
+    padding-top: 15%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 20%;
+  }
+.loginhead {
+    text-align: center;
+    padding: 2%;
+    font-weight:bold;
+    font-size:2rem;
+}
+  .logindiv{
+    padding: 5%;
+  }
+  .logininput {
+    width: 100%;
+    padding: 10px;
+    border-radius: 2%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 10px;
+  }
+  
+  .loginbut {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    /* padding-top: 5%; */
+    font-size: 1.5rem;
+  }
+  .loginspace
+  {
+    padding-top: 5%;
+  }
+  
+  .loginbut:hover {
+    background-color: #0056b3;
+  }
+  
+  .error-text {
+    color: red;
+    text-align: center;
+  }
+  
